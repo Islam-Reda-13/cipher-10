@@ -7,8 +7,9 @@ An end-to-end data analysis project covering US residential real estate sales. T
 ## Project Overview
 
 The dataset contains residential property listings and sales records across the northeastern United States, spanning from the early 1990s through 2023. The analysis focuses on sales volume, pricing trends, property characteristics, and geographic distribution across states and cities.
-
+<img width="1914" height="1072" alt="Screenshot 2026-03-20 140324" src="https://github.com/user-attachments/assets/8b932fd9-1ecd-4daf-a0b9-dfe8352d0b49" />
 **Tools used:** Google BigQuery, SQL, Power BI
+
 
 ---
 
