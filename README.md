@@ -65,6 +65,7 @@ Two query outputs were exported to CSV for use in Power BI:
 The Power BI report (`Real_Estate_USA_Dashboards.pbix`) contains three dashboard pages.
 
 ### Page 1 — Sales Stats Overview
+<img width="1914" height="1081" alt="Screenshot 2026-03-20 140517" src="https://github.com/user-attachments/assets/fd56181f-5c4b-4189-a5cd-d13dec3ea274" />
 
 High-level summary across all states and years.
 
@@ -82,12 +83,14 @@ Key visuals: property count by state (bar chart), market size by state (treemap)
 Top states by volume: New Jersey (20,405), New York (15,116), Connecticut (7,831), Pennsylvania (6,042), Massachusetts (3,980).
 
 ### Page 2 — Price Trends by Year
+<img width="1914" height="1069" alt="Screenshot 2026-03-20 140313" src="https://github.com/user-attachments/assets/a00f0070-371a-4f86-ba54-f1bc4d09f68c" />
 
 Filters: state, city, number of bedrooms, year range (2000–2023).
 
 Key visuals: average price over time (line chart), property sold count by year (bar chart). Total properties sold across the filtered period: 47K. Average price fluctuates between approximately $690K and $950K depending on year.
 
 ### Page 3 — Sales by State and Month
+<img width="1914" height="1072" alt="Screenshot 2026-03-20 140324" src="https://github.com/user-attachments/assets/439167c8-82cd-43ea-bca1-c99e89a1ef25" />
 
 Filters: state, year.
 
